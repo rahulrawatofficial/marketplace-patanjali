@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/rahulrawat/marketplace-patanjali/build/location_web/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/b011d4b5d2ec7eea4ff52e346e1e6e65/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/marketplace-patanjali/build/location_web/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/b011d4b5d2ec7eea4ff52e346e1e6e65/core-1.1.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/marketplace-patanjali/build/location_web/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/b011d4b5d2ec7eea4ff52e346e1e6e65/core-1.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/marketplace-patanjali/build/location_web/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/b011d4b5d2ec7eea4ff52e346e1e6e65/core-1.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/marketplace-patanjali/build/location_web/intermediates/res/merged/release/layout/custom_dialog.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/b011d4b5d2ec7eea4ff52e346e1e6e65/core-1.1.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/marketplace-patanjali/build/location_web/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/b011d4b5d2ec7eea4ff52e346e1e6e65/core-1.1.0/res/layout/notification_action.xml"
+    }
+]

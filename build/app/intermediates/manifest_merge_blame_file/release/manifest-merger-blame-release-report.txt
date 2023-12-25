@@ -1,0 +1,300 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.annadata.app"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml
+10    <!--
+11         io.flutter.app.FlutterApplication is an android.app.Application that
+12         calls FlutterMain.startInitialization(this); in its onCreate method.
+13         In most cases you can leave this as-is, but you if you want to provide
+14         additional functionality it is fine to subclass or reimplement
+15         FlutterApplication and put your custom class here.
+16    -->
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:8:10-71
+17-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:8:27-69
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:9:10-84
+18-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:9:27-81
+19    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+19-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:10:10-86
+19-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:10:27-83
+20    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+20-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:11:10-84
+20-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:11:27-81
+21    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+21-->[:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-80
+21-->[:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:22-77
+22    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+22-->[:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:5-81
+22-->[:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:22-78
+23
+24    <uses-feature
+24-->[com.google.android.gms:play-services-maps:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/e74dca4e4c2fd19bae3b53d27f43a97e/play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+25        android:glEsVersion="0x00020000"
+25-->[com.google.android.gms:play-services-maps:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/e74dca4e4c2fd19bae3b53d27f43a97e/play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+26        android:required="true" />
+26-->[com.google.android.gms:play-services-maps:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/e74dca4e4c2fd19bae3b53d27f43a97e/play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+27
+28    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+28-->[com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:24:5-68
+28-->[com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:24:22-65
+29    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+29-->[com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:26:5-82
+29-->[com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:26:22-79
+30
+31    <application
+31-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:12:5-39:19
+32        android:name="io.flutter.app.FlutterApplication"
+32-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:13:9-57
+33        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+33-->[androidx.core:core:1.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/3342845ab9b5434dfc166c024c52b471/core-1.2.0/AndroidManifest.xml:24:18-86
+34        android:icon="@mipmap/ic_launcher"
+34-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:15:9-43
+35        android:label="Annadata" >
+35-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:14:9-33
+36        <meta-data
+36-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:16:9-17:73
+37            android:name="com.google.android.geo.API_KEY"
+37-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:16:20-65
+38            android:value="AIzaSyCoVj5AdKI5ueRUw4SVNHfSfh4tCbCsJKI" />
+38-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:17:16-71
+39
+40        <activity
+40-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:18:9-33:20
+41            android:name="com.annadata.app.MainActivity"
+41-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:19:13-41
+42            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+42-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:22:13-163
+43            android:hardwareAccelerated="true"
+43-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:23:13-47
+44            android:launchMode="singleTop"
+44-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:20:13-43
+45            android:theme="@style/LaunchTheme"
+45-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:21:13-47
+46            android:windowSoftInputMode="adjustResize" >
+46-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:24:13-55
+47            <intent-filter>
+47-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:25:13-28:29
+48                <action android:name="android.intent.action.MAIN" />
+48-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:26:17-68
+48-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:26:25-66
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:27:17-76
+50-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:27:27-74
+51            </intent-filter>
+52            <intent-filter>
+52-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:29:13-32:29
+53                <action android:name="FLUTTER_NOTIFICATION_CLICK" />
+53-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:30:17-69
+53-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:30:25-66
+54
+55                <category android:name="android.intent.category.DEFAULT" />
+55-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:31:17-76
+55-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:31:27-73
+56            </intent-filter>
+57        </activity>
+58        <!--
+59             Don't delete the meta-data below.
+60             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+61        -->
+62        <meta-data
+62-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:36:9-38:33
+63            android:name="flutterEmbedding"
+63-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:37:13-44
+64            android:value="2" />
+64-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:38:13-30
+65
+66        <activity
+66-->[:razorpay_flutter] /Users/rahulrawat/marketplace-patanjali/build/razorpay_flutter/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:20
+67            android:name="com.razorpay.CheckoutActivity"
+67-->[:razorpay_flutter] /Users/rahulrawat/marketplace-patanjali/build/razorpay_flutter/intermediates/library_manifest/release/AndroidManifest.xml:9:13-57
+68            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+68-->[com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:20:13-83
+69            android:label="Razorpay Checkout"
+69-->[:razorpay_flutter] /Users/rahulrawat/marketplace-patanjali/build/razorpay_flutter/intermediates/library_manifest/release/AndroidManifest.xml:10:13-46
+70            android:theme="@style/CheckoutTheme" >
+70-->[com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:21:13-49
+71            <intent-filter>
+71-->[com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:22:13-28:29
+72                <action android:name="android.intent.action.MAIN" />
+72-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:26:17-68
+72-->/Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:26:25-66
+73
+74                <data
+74-->[com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:25:17-27:47
+75                    android:host="rzp.io"
+75-->[com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:26:21-42
+76                    android:scheme="io.rzp" />
+76-->[com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:27:21-44
+77            </intent-filter>
+78        </activity>
+79
+80        <provider
+80-->[:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:11:9-19:20
+81            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
+81-->[:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:12:13-82
+82            android:authorities="com.annadata.app.flutter.image_provider"
+82-->[:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:13:13-74
+83            android:exported="false"
+83-->[:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:14:13-37
+84            android:grantUriPermissions="true" >
+84-->[:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:15:13-47
+85            <meta-data
+85-->[:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:16:13-18:75
+86                android:name="android.support.FILE_PROVIDER_PATHS"
+86-->[:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:17:17-67
+87                android:resource="@xml/flutter_image_picker_file_paths" />
+87-->[:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:18:17-72
+88        </provider>
+89
+90        <service android:name="io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService" >
+90-->[:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+90-->[:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:8:18-101
+91            <intent-filter>
+91-->[:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:29
+92                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+92-->[:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:10:17-78
+92-->[:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:10:25-75
+93            </intent-filter>
+94        </service>
+95        <service
+95-->[:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:13:9-17:19
+96            android:name="com.google.firebase.components.ComponentDiscoveryService"
+96-->[:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:13:18-89
+97            android:directBootAware="true"
+97-->[com.google.firebase:firebase-common:19.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6526b821f621f4a0d42e78508d6cdefb/firebase-common-19.2.0/AndroidManifest.xml:15:13-43
+98            android:exported="false" >
+98-->[com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:31:13-37
+99            <meta-data
+99-->[:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:14:13-16:85
+100                android:name="com.google.firebase.components:io.flutter.plugins.firebasemessaging.FlutterFirebaseAppRegistrar"
+100-->[:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:15:17-127
+101                android:value="com.google.firebase.components.ComponentRegistrar" />
+101-->[:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:16:17-82
+102            <meta-data
+102-->[com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:32:13-34:85
+103                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+103-->[com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:33:17-96
+104                android:value="com.google.firebase.components.ComponentRegistrar" />
+104-->[com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:34:17-82
+105        </service>
+106
+107        <activity
+107-->[:url_launcher] /Users/rahulrawat/marketplace-patanjali/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:74
+108            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+108-->[:url_launcher] /Users/rahulrawat/marketplace-patanjali/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
+109            android:exported="false"
+109-->[:url_launcher] /Users/rahulrawat/marketplace-patanjali/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:10:13-37
+110            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+110-->[:url_launcher] /Users/rahulrawat/marketplace-patanjali/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:11:13-71
+111        <!--
+112             FirebaseMessagingService performs security checks at runtime,
+113             but set to not exported to explicitly avoid allowing another app to call it.
+114        -->
+115        <service
+115-->[com.google.firebase:firebase-messaging:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8453cf26aa0c26a44eaf5654de9efada/jetified-firebase-messaging-20.0.1/AndroidManifest.xml:28:9-34:19
+116            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+116-->[com.google.firebase:firebase-messaging:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8453cf26aa0c26a44eaf5654de9efada/jetified-firebase-messaging-20.0.1/AndroidManifest.xml:29:13-82
+117            android:exported="false" >
+117-->[com.google.firebase:firebase-messaging:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8453cf26aa0c26a44eaf5654de9efada/jetified-firebase-messaging-20.0.1/AndroidManifest.xml:30:13-37
+118            <intent-filter android:priority="-500" >
+118-->[:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:29
+119                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+119-->[:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:10:17-78
+119-->[:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:10:25-75
+120            </intent-filter>
+121        </service> <!-- Needs to be explicitly declared on P+ -->
+122        <uses-library
+122-->[com.google.android.gms:play-services-maps:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/e74dca4e4c2fd19bae3b53d27f43a97e/play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+123            android:name="org.apache.http.legacy"
+123-->[com.google.android.gms:play-services-maps:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/e74dca4e4c2fd19bae3b53d27f43a97e/play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+124            android:required="false" />
+124-->[com.google.android.gms:play-services-maps:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/e74dca4e4c2fd19bae3b53d27f43a97e/play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+125
+126        <activity
+126-->[com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb005476c8437cce6125f1547af6bcb9/play-services-auth-17.0.0/AndroidManifest.xml:23:9-27:75
+127            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+127-->[com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb005476c8437cce6125f1547af6bcb9/play-services-auth-17.0.0/AndroidManifest.xml:24:13-93
+128            android:excludeFromRecents="true"
+128-->[com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb005476c8437cce6125f1547af6bcb9/play-services-auth-17.0.0/AndroidManifest.xml:25:13-46
+129            android:exported="false"
+129-->[com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb005476c8437cce6125f1547af6bcb9/play-services-auth-17.0.0/AndroidManifest.xml:26:13-37
+130            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+130-->[com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb005476c8437cce6125f1547af6bcb9/play-services-auth-17.0.0/AndroidManifest.xml:27:13-72
+131        <!--
+132            Service handling Google Sign-In user revocation. For apps that do not integrate with
+133            Google Sign-In, this service will never be started.
+134        -->
+135        <service
+135-->[com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb005476c8437cce6125f1547af6bcb9/play-services-auth-17.0.0/AndroidManifest.xml:33:9-36:110
+136            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+136-->[com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb005476c8437cce6125f1547af6bcb9/play-services-auth-17.0.0/AndroidManifest.xml:34:13-89
+137            android:exported="true"
+137-->[com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb005476c8437cce6125f1547af6bcb9/play-services-auth-17.0.0/AndroidManifest.xml:35:13-36
+138            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+138-->[com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb005476c8437cce6125f1547af6bcb9/play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
+139
+140        <receiver
+140-->[com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:37:9-44:20
+141            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+141-->[com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:38:13-78
+142            android:exported="true"
+142-->[com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:39:13-36
+143            android:permission="com.google.android.c2dm.permission.SEND" >
+143-->[com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:40:13-73
+144            <intent-filter>
+144-->[com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:41:13-43:29
+145                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+145-->[com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:42:17-81
+145-->[com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:42:25-78
+146            </intent-filter>
+147        </receiver>
+148
+149        <activity
+149-->[com.google.android.gms:play-services-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/9a6a440fae8500321f7e065f9575f81d/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+150            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+150-->[com.google.android.gms:play-services-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/9a6a440fae8500321f7e065f9575f81d/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+151            android:exported="false"
+151-->[com.google.android.gms:play-services-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/9a6a440fae8500321f7e065f9575f81d/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+152            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+152-->[com.google.android.gms:play-services-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/9a6a440fae8500321f7e065f9575f81d/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+153
+154        <provider
+154-->[com.google.firebase:firebase-common:19.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6526b821f621f4a0d42e78508d6cdefb/firebase-common-19.2.0/AndroidManifest.xml:19:9-23:39
+155            android:name="com.google.firebase.provider.FirebaseInitProvider"
+155-->[com.google.firebase:firebase-common:19.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6526b821f621f4a0d42e78508d6cdefb/firebase-common-19.2.0/AndroidManifest.xml:20:13-77
+156            android:authorities="com.annadata.app.firebaseinitprovider"
+156-->[com.google.firebase:firebase-common:19.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6526b821f621f4a0d42e78508d6cdefb/firebase-common-19.2.0/AndroidManifest.xml:21:13-72
+157            android:exported="false"
+157-->[com.google.firebase:firebase-common:19.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6526b821f621f4a0d42e78508d6cdefb/firebase-common-19.2.0/AndroidManifest.xml:22:13-37
+158            android:initOrder="100" />
+158-->[com.google.firebase:firebase-common:19.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6526b821f621f4a0d42e78508d6cdefb/firebase-common-19.2.0/AndroidManifest.xml:23:13-36
+159
+160        <meta-data
+160-->[com.google.android.gms:play-services-basement:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/59d6bd589384a162ee5f89ff9f969c47/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+161            android:name="com.google.android.gms.version"
+161-->[com.google.android.gms:play-services-basement:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/59d6bd589384a162ee5f89ff9f969c47/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+162            android:value="@integer/google_play_services_version" />
+162-->[com.google.android.gms:play-services-basement:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/59d6bd589384a162ee5f89ff9f969c47/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+163
+164        <receiver android:name="com.razorpay.RzpTokenReceiver" >
+164-->[com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:12:9-16:20
+164-->[com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:12:19-63
+165            <intent-filter>
+165-->[com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:13:13-15:29
+166                <action android:name="rzp.device_token.share" />
+166-->[com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:14:17-65
+166-->[com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:14:25-62
+167            </intent-filter>
+168        </receiver>
+169    </application>
+170
+171</manifest>

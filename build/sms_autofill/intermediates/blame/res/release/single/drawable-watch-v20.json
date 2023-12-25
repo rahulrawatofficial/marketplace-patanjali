@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/rahulrawat/marketplace-patanjali/build/sms_autofill/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb005476c8437cce6125f1547af6bcb9/play-services-auth-17.0.0/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/marketplace-patanjali/build/sms_autofill/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb005476c8437cce6125f1547af6bcb9/play-services-auth-17.0.0/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/marketplace-patanjali/build/sms_autofill/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb005476c8437cce6125f1547af6bcb9/play-services-auth-17.0.0/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    }
+]

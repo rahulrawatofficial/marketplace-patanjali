@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "980960770690",
+    "firebase_url": "https://annadata-f95fb.firebaseio.com",
+    "project_id": "annadata-f95fb",
+    "storage_bucket": "annadata-f95fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980960770690:android:9720f05b4649e37ade129b",
+        "android_client_info": {
+          "package_name": "com.annadata.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980960770690-8v3vvgb47um6ivrcbmb6k39futfm4g7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnJ06xdiAI5MTDY9Ib9mEAKxBip1V31Vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980960770690-8v3vvgb47um6ivrcbmb6k39futfm4g7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

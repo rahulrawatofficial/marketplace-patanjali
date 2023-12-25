@@ -1,0 +1,505 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:1:1-40:12
+MERGED from [:location] /Users/rahulrawat/marketplace-patanjali/build/location/intermediates/library_manifest/release/AndroidManifest.xml:2:1-10:12
+MERGED from [:path_provider] /Users/rahulrawat/marketplace-patanjali/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_macos] /Users/rahulrawat/marketplace-patanjali/build/path_provider_macos/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:razorpay_flutter] /Users/rahulrawat/marketplace-patanjali/build/razorpay_flutter/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:2:1-22:12
+MERGED from [:google_maps_flutter] /Users/rahulrawat/marketplace-patanjali/build/google_maps_flutter/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/rahulrawat/marketplace-patanjali/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_local_notifications] /Users/rahulrawat/marketplace-patanjali/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:location_web] /Users/rahulrawat/marketplace-patanjali/build/location_web/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:geocoder] /Users/rahulrawat/marketplace-patanjali/build/geocoder/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:permission_handler] /Users/rahulrawat/marketplace-patanjali/build/permission_handler/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] /Users/rahulrawat/marketplace-patanjali/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:2:1-20:12
+MERGED from [:shared_preferences_macos] /Users/rahulrawat/marketplace-patanjali/build/shared_preferences_macos/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_web] /Users/rahulrawat/marketplace-patanjali/build/shared_preferences_web/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:sms_autofill] /Users/rahulrawat/marketplace-patanjali/build/sms_autofill/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] /Users/rahulrawat/marketplace-patanjali/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:url_launcher_web] /Users/rahulrawat/marketplace-patanjali/build/url_launcher_web/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:fluttertoast] /Users/rahulrawat/marketplace-patanjali/build/fluttertoast/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] /Users/rahulrawat/marketplace-patanjali/build/sqflite/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/2f621e59f948dec3c236b5be0a4f1efa/jetified-play-services-location-16.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.media:media:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/e654e264082028f066b632dcb7c2913b/media-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8453cf26aa0c26a44eaf5654de9efada/jetified-firebase-messaging-20.0.1/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/e74dca4e4c2fd19bae3b53d27f43a97e/play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb005476c8437cce6125f1547af6bcb9/play-services-auth-17.0.0/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/3b626dc52538a132d0b4abd9fe1e4500/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb26c1a70c8944c21f6c54486726503b/play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/5c26768f40c4f689e9b19c82b9e39647/firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/9a6a440fae8500321f7e065f9575f81d/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d5f4a8710f2e469406705a0bd4ce35a2/play-services-places-placereport-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6526b821f621f4a0d42e78508d6cdefb/firebase-common-19.2.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/0bef4825910dfde9d1394554b46b96ad/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/17ae1d43c5d34951218770dd439cf555/firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d1944091f7ff0945d4c66df681b95990/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/59d6bd589384a162ee5f89ff9f969c47/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/930ba79d9afd52964b42c14f0053fe4b/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/4b650d79e6802d147079650329ad58c2/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/ee6b401f71594174ea6d12f24ac8e371/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6dcfe9c402810aa38a8828de540d52b6/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/bb2fa52e9b31650bfc5a6ae665192ca9/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/7daa265c4096fa6e90d7a6899e13f8b4/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/3342845ab9b5434dfc166c024c52b471/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/3c765db1ed5a358b855c88f3ebc4e5cb/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/7ef2e217d521f149418b0f2048edfbf2/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/762ad15499b76dd30f976b7cf1343124/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cf85dc30ab6cacc9944b3909bc2d8d12/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/815016ef3aebfedeaa2d6423587d9f8e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/28c4c5bdafea2ddf3e85d959ac73b331/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/177cc4424ff59fc27b8bf556be7daa63/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c5d8e5042c76861fbbea20acc6f01eca/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c0bcbfb021564b3b41a4611a164498f0/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/234d8388d3548014233e9d14d722b8ec/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:1:1-40:12
+	package
+		ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:2:5-31
+		INJECTED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:1:1-40:12
+		INJECTED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:1:1-40:12
+		INJECTED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:8:10-71
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/e74dca4e4c2fd19bae3b53d27f43a97e/play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/e74dca4e4c2fd19bae3b53d27f43a97e/play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:9:5-67
+MERGED from [com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:8:27-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:9:10-84
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/e74dca4e4c2fd19bae3b53d27f43a97e/play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/e74dca4e4c2fd19bae3b53d27f43a97e/play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:9:27-81
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:10:10-86
+MERGED from [:location] /Users/rahulrawat/marketplace-patanjali/build/location/intermediates/library_manifest/release/AndroidManifest.xml:7:5-81
+MERGED from [:location] /Users/rahulrawat/marketplace-patanjali/build/location/intermediates/library_manifest/release/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:10:27-83
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:11:10-84
+MERGED from [:location] /Users/rahulrawat/marketplace-patanjali/build/location/intermediates/library_manifest/release/AndroidManifest.xml:8:5-79
+MERGED from [:location] /Users/rahulrawat/marketplace-patanjali/build/location/intermediates/library_manifest/release/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:11:27-81
+application
+ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:12:5-39:19
+MERGED from [:razorpay_flutter] /Users/rahulrawat/marketplace-patanjali/build/razorpay_flutter/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:razorpay_flutter] /Users/rahulrawat/marketplace-patanjali/build/razorpay_flutter/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:10:5-20:19
+MERGED from [:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:7:5-18:19
+MERGED from [:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:7:5-18:19
+MERGED from [:url_launcher] /Users/rahulrawat/marketplace-patanjali/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /Users/rahulrawat/marketplace-patanjali/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/2f621e59f948dec3c236b5be0a4f1efa/jetified-play-services-location-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/2f621e59f948dec3c236b5be0a4f1efa/jetified-play-services-location-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8453cf26aa0c26a44eaf5654de9efada/jetified-firebase-messaging-20.0.1/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8453cf26aa0c26a44eaf5654de9efada/jetified-firebase-messaging-20.0.1/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/e74dca4e4c2fd19bae3b53d27f43a97e/play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/e74dca4e4c2fd19bae3b53d27f43a97e/play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb005476c8437cce6125f1547af6bcb9/play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb005476c8437cce6125f1547af6bcb9/play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/5c26768f40c4f689e9b19c82b9e39647/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/5c26768f40c4f689e9b19c82b9e39647/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/9a6a440fae8500321f7e065f9575f81d/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/9a6a440fae8500321f7e065f9575f81d/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d5f4a8710f2e469406705a0bd4ce35a2/play-services-places-placereport-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d5f4a8710f2e469406705a0bd4ce35a2/play-services-places-placereport-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6526b821f621f4a0d42e78508d6cdefb/firebase-common-19.2.0/AndroidManifest.xml:12:5-24:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6526b821f621f4a0d42e78508d6cdefb/firebase-common-19.2.0/AndroidManifest.xml:12:5-24:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/0bef4825910dfde9d1394554b46b96ad/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/0bef4825910dfde9d1394554b46b96ad/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/17ae1d43c5d34951218770dd439cf555/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/17ae1d43c5d34951218770dd439cf555/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d1944091f7ff0945d4c66df681b95990/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d1944091f7ff0945d4c66df681b95990/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/59d6bd589384a162ee5f89ff9f969c47/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/59d6bd589384a162ee5f89ff9f969c47/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/3342845ab9b5434dfc166c024c52b471/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/3342845ab9b5434dfc166c024c52b471/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/28c4c5bdafea2ddf3e85d959ac73b331/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/28c4c5bdafea2ddf3e85d959ac73b331/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:11:5-30:19
+MERGED from [com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:11:5-30:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/3342845ab9b5434dfc166c024c52b471/core-1.2.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:14:9-33
+	android:icon
+		ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:15:9-43
+	android:name
+		ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:13:9-57
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:16:9-17:73
+	android:value
+		ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:17:16-71
+	android:name
+		ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:16:20-65
+activity#com.annadata.app.MainActivity
+ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:18:9-33:20
+	android:launchMode
+		ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:20:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:23:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:24:13-55
+	android:configChanges
+		ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:22:13-163
+	android:theme
+		ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:21:13-47
+	android:name
+		ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:26:17-68
+	android:name
+		ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:27:27-74
+intent-filter#action:name:FLUTTER_NOTIFICATION_CLICK+category:name:android.intent.category.DEFAULT
+ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:29:13-32:29
+action#FLUTTER_NOTIFICATION_CLICK
+ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:31:17-76
+	android:name
+		ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:31:27-73
+meta-data#flutterEmbedding
+ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:36:9-38:33
+	android:value
+		ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:38:13-30
+	android:name
+		ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml:37:13-44
+uses-sdk
+INJECTED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml
+MERGED from [:location] /Users/rahulrawat/marketplace-patanjali/build/location/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:location] /Users/rahulrawat/marketplace-patanjali/build/location/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/rahulrawat/marketplace-patanjali/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/rahulrawat/marketplace-patanjali/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_macos] /Users/rahulrawat/marketplace-patanjali/build/path_provider_macos/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_macos] /Users/rahulrawat/marketplace-patanjali/build/path_provider_macos/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:razorpay_flutter] /Users/rahulrawat/marketplace-patanjali/build/razorpay_flutter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:razorpay_flutter] /Users/rahulrawat/marketplace-patanjali/build/razorpay_flutter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] /Users/rahulrawat/marketplace-patanjali/build/google_maps_flutter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] /Users/rahulrawat/marketplace-patanjali/build/google_maps_flutter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/rahulrawat/marketplace-patanjali/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/rahulrawat/marketplace-patanjali/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] /Users/rahulrawat/marketplace-patanjali/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] /Users/rahulrawat/marketplace-patanjali/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:location_web] /Users/rahulrawat/marketplace-patanjali/build/location_web/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:location_web] /Users/rahulrawat/marketplace-patanjali/build/location_web/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:geocoder] /Users/rahulrawat/marketplace-patanjali/build/geocoder/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:geocoder] /Users/rahulrawat/marketplace-patanjali/build/geocoder/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] /Users/rahulrawat/marketplace-patanjali/build/permission_handler/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] /Users/rahulrawat/marketplace-patanjali/build/permission_handler/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/rahulrawat/marketplace-patanjali/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/rahulrawat/marketplace-patanjali/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_macos] /Users/rahulrawat/marketplace-patanjali/build/shared_preferences_macos/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_macos] /Users/rahulrawat/marketplace-patanjali/build/shared_preferences_macos/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_web] /Users/rahulrawat/marketplace-patanjali/build/shared_preferences_web/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_web] /Users/rahulrawat/marketplace-patanjali/build/shared_preferences_web/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:sms_autofill] /Users/rahulrawat/marketplace-patanjali/build/sms_autofill/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:sms_autofill] /Users/rahulrawat/marketplace-patanjali/build/sms_autofill/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/rahulrawat/marketplace-patanjali/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/rahulrawat/marketplace-patanjali/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_web] /Users/rahulrawat/marketplace-patanjali/build/url_launcher_web/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_web] /Users/rahulrawat/marketplace-patanjali/build/url_launcher_web/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /Users/rahulrawat/marketplace-patanjali/build/fluttertoast/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /Users/rahulrawat/marketplace-patanjali/build/fluttertoast/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/rahulrawat/marketplace-patanjali/build/sqflite/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/rahulrawat/marketplace-patanjali/build/sqflite/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/2f621e59f948dec3c236b5be0a4f1efa/jetified-play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/2f621e59f948dec3c236b5be0a4f1efa/jetified-play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.media:media:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/e654e264082028f066b632dcb7c2913b/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/e654e264082028f066b632dcb7c2913b/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8453cf26aa0c26a44eaf5654de9efada/jetified-firebase-messaging-20.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8453cf26aa0c26a44eaf5654de9efada/jetified-firebase-messaging-20.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/e74dca4e4c2fd19bae3b53d27f43a97e/play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/e74dca4e4c2fd19bae3b53d27f43a97e/play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb005476c8437cce6125f1547af6bcb9/play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb005476c8437cce6125f1547af6bcb9/play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/3b626dc52538a132d0b4abd9fe1e4500/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/3b626dc52538a132d0b4abd9fe1e4500/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb26c1a70c8944c21f6c54486726503b/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb26c1a70c8944c21f6c54486726503b/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/5c26768f40c4f689e9b19c82b9e39647/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/5c26768f40c4f689e9b19c82b9e39647/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/9a6a440fae8500321f7e065f9575f81d/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/9a6a440fae8500321f7e065f9575f81d/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d5f4a8710f2e469406705a0bd4ce35a2/play-services-places-placereport-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d5f4a8710f2e469406705a0bd4ce35a2/play-services-places-placereport-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6526b821f621f4a0d42e78508d6cdefb/firebase-common-19.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6526b821f621f4a0d42e78508d6cdefb/firebase-common-19.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/0bef4825910dfde9d1394554b46b96ad/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/0bef4825910dfde9d1394554b46b96ad/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/17ae1d43c5d34951218770dd439cf555/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/17ae1d43c5d34951218770dd439cf555/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d1944091f7ff0945d4c66df681b95990/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d1944091f7ff0945d4c66df681b95990/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/59d6bd589384a162ee5f89ff9f969c47/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/59d6bd589384a162ee5f89ff9f969c47/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/930ba79d9afd52964b42c14f0053fe4b/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/930ba79d9afd52964b42c14f0053fe4b/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/4b650d79e6802d147079650329ad58c2/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/4b650d79e6802d147079650329ad58c2/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/ee6b401f71594174ea6d12f24ac8e371/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/ee6b401f71594174ea6d12f24ac8e371/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6dcfe9c402810aa38a8828de540d52b6/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6dcfe9c402810aa38a8828de540d52b6/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/bb2fa52e9b31650bfc5a6ae665192ca9/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/bb2fa52e9b31650bfc5a6ae665192ca9/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/7daa265c4096fa6e90d7a6899e13f8b4/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/7daa265c4096fa6e90d7a6899e13f8b4/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/3342845ab9b5434dfc166c024c52b471/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/3342845ab9b5434dfc166c024c52b471/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/3c765db1ed5a358b855c88f3ebc4e5cb/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/3c765db1ed5a358b855c88f3ebc4e5cb/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/7ef2e217d521f149418b0f2048edfbf2/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/7ef2e217d521f149418b0f2048edfbf2/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/762ad15499b76dd30f976b7cf1343124/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/762ad15499b76dd30f976b7cf1343124/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cf85dc30ab6cacc9944b3909bc2d8d12/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cf85dc30ab6cacc9944b3909bc2d8d12/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/815016ef3aebfedeaa2d6423587d9f8e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/815016ef3aebfedeaa2d6423587d9f8e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/28c4c5bdafea2ddf3e85d959ac73b331/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/28c4c5bdafea2ddf3e85d959ac73b331/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/177cc4424ff59fc27b8bf556be7daa63/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/177cc4424ff59fc27b8bf556be7daa63/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c5d8e5042c76861fbbea20acc6f01eca/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c5d8e5042c76861fbbea20acc6f01eca/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c0bcbfb021564b3b41a4611a164498f0/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c0bcbfb021564b3b41a4611a164498f0/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/234d8388d3548014233e9d14d722b8ec/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/234d8388d3548014233e9d14d722b8ec/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rahulrawat/marketplace-patanjali/android/app/src/main/AndroidManifest.xml
+activity#com.razorpay.CheckoutActivity
+ADDED from [:razorpay_flutter] /Users/rahulrawat/marketplace-patanjali/build/razorpay_flutter/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:20
+MERGED from [com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:18:9-29:20
+MERGED from [com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:18:9-29:20
+	android:label
+		ADDED from [:razorpay_flutter] /Users/rahulrawat/marketplace-patanjali/build/razorpay_flutter/intermediates/library_manifest/release/AndroidManifest.xml:10:13-46
+	android:configChanges
+		ADDED from [com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:20:13-83
+	android:theme
+		ADDED from [com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from [:razorpay_flutter] /Users/rahulrawat/marketplace-patanjali/build/razorpay_flutter/intermediates/library_manifest/release/AndroidManifest.xml:9:13-57
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] /Users/rahulrawat/marketplace-patanjali/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:17:17-67
+service#io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService
+ADDED from [:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+	android:name
+		ADDED from [:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:8:18-101
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:10:17-78
+	android:name
+		ADDED from [:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:10:25-75
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:13:9-17:19
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6526b821f621f4a0d42e78508d6cdefb/firebase-common-19.2.0/AndroidManifest.xml:13:9-17:35
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6526b821f621f4a0d42e78508d6cdefb/firebase-common-19.2.0/AndroidManifest.xml:13:9-17:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6526b821f621f4a0d42e78508d6cdefb/firebase-common-19.2.0/AndroidManifest.xml:17:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6526b821f621f4a0d42e78508d6cdefb/firebase-common-19.2.0/AndroidManifest.xml:15:13-43
+	android:name
+		ADDED from [:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:13:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebasemessaging.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [:firebase_messaging] /Users/rahulrawat/marketplace-patanjali/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:15:17-127
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] /Users/rahulrawat/marketplace-patanjali/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] /Users/rahulrawat/marketplace-patanjali/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] /Users/rahulrawat/marketplace-patanjali/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] /Users/rahulrawat/marketplace-patanjali/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8453cf26aa0c26a44eaf5654de9efada/jetified-firebase-messaging-20.0.1/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8453cf26aa0c26a44eaf5654de9efada/jetified-firebase-messaging-20.0.1/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8453cf26aa0c26a44eaf5654de9efada/jetified-firebase-messaging-20.0.1/AndroidManifest.xml:29:13-82
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/e74dca4e4c2fd19bae3b53d27f43a97e/play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/e74dca4e4c2fd19bae3b53d27f43a97e/play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/e74dca4e4c2fd19bae3b53d27f43a97e/play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/e74dca4e4c2fd19bae3b53d27f43a97e/play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/e74dca4e4c2fd19bae3b53d27f43a97e/play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/e74dca4e4c2fd19bae3b53d27f43a97e/play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb005476c8437cce6125f1547af6bcb9/play-services-auth-17.0.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb005476c8437cce6125f1547af6bcb9/play-services-auth-17.0.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb005476c8437cce6125f1547af6bcb9/play-services-auth-17.0.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb005476c8437cce6125f1547af6bcb9/play-services-auth-17.0.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb005476c8437cce6125f1547af6bcb9/play-services-auth-17.0.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb005476c8437cce6125f1547af6bcb9/play-services-auth-17.0.0/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb005476c8437cce6125f1547af6bcb9/play-services-auth-17.0.0/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb005476c8437cce6125f1547af6bcb9/play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cb005476c8437cce6125f1547af6bcb9/play-services-auth-17.0.0/AndroidManifest.xml:34:13-89
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a042f32daf9a8d1dd424e6cf0a6f038f/firebase-iid-20.0.1/AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/9a6a440fae8500321f7e065f9575f81d/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/9a6a440fae8500321f7e065f9575f81d/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/9a6a440fae8500321f7e065f9575f81d/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/9a6a440fae8500321f7e065f9575f81d/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6526b821f621f4a0d42e78508d6cdefb/firebase-common-19.2.0/AndroidManifest.xml:19:9-23:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6526b821f621f4a0d42e78508d6cdefb/firebase-common-19.2.0/AndroidManifest.xml:21:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6526b821f621f4a0d42e78508d6cdefb/firebase-common-19.2.0/AndroidManifest.xml:22:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6526b821f621f4a0d42e78508d6cdefb/firebase-common-19.2.0/AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6526b821f621f4a0d42e78508d6cdefb/firebase-common-19.2.0/AndroidManifest.xml:20:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/59d6bd589384a162ee5f89ff9f969c47/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/59d6bd589384a162ee5f89ff9f969c47/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/59d6bd589384a162ee5f89ff9f969c47/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+receiver#com.razorpay.RzpTokenReceiver
+ADDED from [com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:12:9-16:20
+	android:name
+		ADDED from [com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:12:19-63
+intent-filter#action:name:rzp.device_token.share
+ADDED from [com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:13:13-15:29
+action#rzp.device_token.share
+ADDED from [com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:14:17-65
+	android:name
+		ADDED from [com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:14:25-62
+intent-filter#action:name:android.intent.action.MAIN+data:host:rzp.io+data:scheme:io.rzp
+ADDED from [com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:22:13-28:29
+data
+ADDED from [com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:25:17-27:47
+	android:host
+		ADDED from [com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:26:21-42
+	android:scheme
+		ADDED from [com.razorpay:checkout:1.5.4] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c584d18bcf3486d83be15e64dc335bf5/checkout-1.5.4/AndroidManifest.xml:27:21-44
